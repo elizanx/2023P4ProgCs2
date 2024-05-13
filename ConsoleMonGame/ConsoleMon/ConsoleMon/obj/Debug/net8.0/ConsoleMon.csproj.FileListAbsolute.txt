@@ -1,0 +1,15 @@
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\bin\Debug\net8.0\ConsoleMon.exe
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\bin\Debug\net8.0\ConsoleMon.deps.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\bin\Debug\net8.0\ConsoleMon.runtimeconfig.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\bin\Debug\net8.0\ConsoleMon.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\bin\Debug\net8.0\ConsoleMon.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.AssemblyInfoInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.AssemblyInfo.cs
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.csproj.CoreCompileInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.sourcelink.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\refint\ConsoleMon.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.genruntimeconfig.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ref\ConsoleMon.dll
