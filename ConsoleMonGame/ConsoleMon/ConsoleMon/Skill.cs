@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Skill
+namespace ConsoleMon
 {
-    internal class Skills
+    internal class Skill
     {
         internal int damage;
         internal int energyCost;
         internal string name;
+        internal void UseOn(ConsoleMon target, ConsoleMon caster)
+        {
+            caster.DepleteEnergy(energyCost);
+            target.TakeDamage(damage);
+        }
+
     }
 }
