@@ -1,0 +1,15 @@
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.exe
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.deps.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.runtimeconfig.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.AssemblyInfoInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.AssemblyInfo.cs
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.csproj.CoreCompileInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.sourcelink.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\refint\EnumOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.genruntimeconfig.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\EnumOpdracht\EnumOpdracht\obj\Debug\net8.0\ref\EnumOpdracht.dll

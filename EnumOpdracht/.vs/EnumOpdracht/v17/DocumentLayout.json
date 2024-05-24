@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\EnumOpdracht\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7C794-745C-41E2-9002-96A2CD4B3254}|EnumOpdracht\\EnumOpdracht.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\enumopdracht\\enumopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A7C794-745C-41E2-9002-96A2CD4B3254}|EnumOpdracht\\EnumOpdracht.csproj|solutionrelative:enumopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7C794-745C-41E2-9002-96A2CD4B3254}|EnumOpdracht\\EnumOpdracht.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\enumopdracht\\enumopdracht\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A7C794-745C-41E2-9002-96A2CD4B3254}|EnumOpdracht\\EnumOpdracht.csproj|solutionrelative:enumopdracht\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\EnumOpdracht\\EnumOpdracht\\Colors.cs",
+              "RelativeDocumentMoniker": "EnumOpdracht\\Colors.cs",
+              "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\EnumOpdracht\\EnumOpdracht\\Colors.cs",
+              "RelativeToolTip": "EnumOpdracht\\Colors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:55:26.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\EnumOpdracht\\EnumOpdracht\\Program.cs",
+              "RelativeDocumentMoniker": "EnumOpdracht\\Program.cs",
+              "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\EnumOpdracht\\EnumOpdracht\\Program.cs",
+              "RelativeToolTip": "EnumOpdracht\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:42:46.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
