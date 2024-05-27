@@ -15,7 +15,17 @@ namespace ConsoleMon
         {
             caster.DepleteEnergy(energyCost);
             target.TakeDamage(damage);
+
+            if (target.weakness == element)
+            {
+                target.TakeDamage(damage/2);
+            }
         }
+
+        internal Element element;
+
+
+
 
     }
 }

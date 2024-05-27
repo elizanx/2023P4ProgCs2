@@ -21,6 +21,7 @@
             Console.WriteLine(mon.energy == -20);
         }
 
+
         static void TestSkillFunctions()
         {
             Console.WriteLine("TestSkillFunctions");
@@ -33,7 +34,7 @@
             };
             skill.UseOn(targetMon, casterMon);
 
-            Console.WriteLine(targetMon.health == -100);
+            Console.WriteLine(targetMon.health == -150);
 
             Console.WriteLine(casterMon.energy == -20);
         }

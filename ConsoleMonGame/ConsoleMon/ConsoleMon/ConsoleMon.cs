@@ -24,6 +24,7 @@ namespace ConsoleMon
             this.energy -= energy;
         }
 
+        internal Element weakness;
 
     }
 }
