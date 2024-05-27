@@ -1,0 +1,15 @@
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.exe
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.deps.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.runtimeconfig.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.AssemblyInfoInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.AssemblyInfo.cs
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.csproj.CoreCompileInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.sourcelink.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\refint\FileDirOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.genruntimeconfig.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net8.0\ref\FileDirOpdracht.dll
