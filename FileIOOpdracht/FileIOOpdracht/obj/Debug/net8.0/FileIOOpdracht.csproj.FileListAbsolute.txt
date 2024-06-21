@@ -1,0 +1,17 @@
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\bin\Debug\net8.0\leesdezefile.txt
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\bin\Debug\net8.0\FileIOOpdracht.exe
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\bin\Debug\net8.0\FileIOOpdracht.deps.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\bin\Debug\net8.0\FileIOOpdracht.runtimeconfig.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\bin\Debug\net8.0\FileIOOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\bin\Debug\net8.0\FileIOOpdracht.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.AssemblyInfoInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.AssemblyInfo.cs
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.csproj.CoreCompileInputs.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.sourcelink.json
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\refint\FileIOOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.pdb
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\FileIOOpdracht.genruntimeconfig.cache
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\obj\Debug\net8.0\ref\FileIOOpdracht.dll
+C:\MA\periode 4\PROG\2023P4ProgCs2\FileIOOpdracht\FileIOOpdracht\bin\Debug\net8.0\mijnnieuwefile.txt

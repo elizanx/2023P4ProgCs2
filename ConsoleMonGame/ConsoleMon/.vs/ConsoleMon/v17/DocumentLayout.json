@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Element.cs",
               "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Element.cs",
               "RelativeDocumentMoniker": "ConsoleMon\\Element.cs",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "ConsoleMon\\Element.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T13:24:07.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T13:24:07.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Skill.cs",
               "RelativeDocumentMoniker": "ConsoleMon\\Skill.cs",
               "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Skill.cs",
               "RelativeToolTip": "ConsoleMon\\Skill.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBQAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T08:06:04.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConsoleMon.cs",
               "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMon.cs",
               "RelativeDocumentMoniker": "ConsoleMon\\ConsoleMon.cs",
@@ -64,21 +63,19 @@
               "RelativeToolTip": "ConsoleMon\\ConsoleMon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:14:38.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T08:14:38.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleMon\\Program.cs",
               "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Program.cs",
               "RelativeToolTip": "ConsoleMon\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:08:25.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T08:08:25.126Z"
             }
           ]
         }
