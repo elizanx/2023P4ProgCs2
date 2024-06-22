@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             TestConsoleMonFunctions();
             TestSkillFunctions();
+            TestFactoryFunctions();
         }
 
         static void TestConsoleMonFunctions()
@@ -38,6 +39,15 @@
 
             Console.WriteLine(casterMon.energy == -20);
         }
+
+
+        static void TestFactoryFunctions()
+        {
+            Console.WriteLine("TestFactoryFunctions");
+            ConsoleMonFactory factory = new ConsoleMonFactory();
+            factory.Load("monsterdata.txt");
+        }
+
 
     }
 

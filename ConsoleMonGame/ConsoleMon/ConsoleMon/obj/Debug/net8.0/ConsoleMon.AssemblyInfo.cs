@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleMon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f7eaf4554ba6b4b00c6bfca5dabb66eb55ce5b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf0ebb2e5498468a621448d91d12e9803c49451")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleMon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleMon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
