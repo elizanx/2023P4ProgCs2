@@ -48,7 +48,7 @@
             factory.Load("monsterdata.txt");
         }
 
-
+        
     }
 
 }

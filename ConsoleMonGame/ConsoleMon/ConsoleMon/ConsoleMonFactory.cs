@@ -14,7 +14,16 @@ namespace ConsoleMon
 
             for (int i = 0; i < lines.Length; i++) 
             {
-                Console.WriteLine(lines[i]);
+                string[] typeSplit = lines[i].Split("|");
+                string[] consoleMonData = typeSplit[0].Split(",");
+                Console.WriteLine(consoleMonData[i]);
+
+                ConsoleMon dataMon = new ConsoleMon();
+                dataMon.name = consoleMonData[0];
+                dataMon.energy = int.Parse(consoleMonData[3]);
+                dataMon.health = int.Parse(consoleMonData[1]);
+
+                Console.WriteLine(dataMon.name + dataMon.energy + dataMon.health);
             }
             
            
