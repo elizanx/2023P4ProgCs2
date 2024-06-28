@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\consolemonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\monsterdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\monsterdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +27,7 @@
       "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|c:\\ma\\periode 4\\prog\\2023p4progcs2\\consolemongame\\consolemon\\consolemon\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2A737A-873E-45A1-9568-51B4D7A5DB30}|ConsoleMon\\ConsoleMon.csproj|solutionrelative:consolemon\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eliza\\AppData\\Local\\SourceServer\\2f29cb9d8e89bd92737caee7aa78ad0a6d473b0109485193c300328e9950b844\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMonFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +37,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleMonFactory.cs",
+              "DocumentMoniker": "C:\\Users\\eliza\\AppData\\Local\\SourceServer\\2f29cb9d8e89bd92737caee7aa78ad0a6d473b0109485193c300328e9950b844\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMonFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\eliza\\AppData\\Local\\SourceServer\\2f29cb9d8e89bd92737caee7aa78ad0a6d473b0109485193c300328e9950b844\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMonFactory.cs",
+              "ToolTip": "C:\\Users\\eliza\\AppData\\Local\\SourceServer\\2f29cb9d8e89bd92737caee7aa78ad0a6d473b0109485193c300328e9950b844\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMonFactory.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\eliza\\AppData\\Local\\SourceServer\\2f29cb9d8e89bd92737caee7aa78ad0a6d473b0109485193c300328e9950b844\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMonFactory.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:34:29.385Z",
+              "EditorCaption": " [Read Only]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +60,7 @@
               "RelativeDocumentMoniker": "ConsoleMon\\ConsoleMonFactory.cs",
               "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMonFactory.cs",
               "RelativeToolTip": "ConsoleMon\\ConsoleMonFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T13:15:23.041Z",
               "EditorCaption": ""
@@ -48,19 +68,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleMon\\Program.cs",
-              "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Program.cs",
-              "RelativeToolTip": "ConsoleMon\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwDIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:08:25.126Z",
+              "Title": "monsterdata.json",
+              "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\monsterdata.json",
+              "RelativeDocumentMoniker": "ConsoleMon\\monsterdata.json",
+              "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\monsterdata.json",
+              "RelativeToolTip": "ConsoleMon\\monsterdata.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T19:43:31.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleMon\\Program.cs",
+              "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Program.cs",
+              "RelativeToolTip": "ConsoleMon\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:08:25.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Element.cs",
               "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Element.cs",
               "RelativeDocumentMoniker": "ConsoleMon\\Element.cs",
@@ -68,33 +100,31 @@
               "RelativeToolTip": "ConsoleMon\\Element.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T13:24:07.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T13:24:07.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Skill.cs",
               "RelativeDocumentMoniker": "ConsoleMon\\Skill.cs",
               "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\Skill.cs",
               "RelativeToolTip": "ConsoleMon\\Skill.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T08:06:04.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ConsoleMon.cs",
               "DocumentMoniker": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMon.cs",
               "RelativeDocumentMoniker": "ConsoleMon\\ConsoleMon.cs",
               "ToolTip": "C:\\MA\\periode 4\\PROG\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMon\\ConsoleMon\\ConsoleMon.cs",
               "RelativeToolTip": "ConsoleMon\\ConsoleMon.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:14:38.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T08:14:38.561Z"
             }
           ]
         }

@@ -14,3 +14,4 @@ C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debu
 C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ConsoleMon.genruntimeconfig.cache
 C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\obj\Debug\net8.0\ref\ConsoleMon.dll
 C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\bin\Debug\net8.0\monsterdata.txt
+C:\MA\periode 4\PROG\2023P4ProgCs2\ConsoleMonGame\ConsoleMon\ConsoleMon\bin\Debug\net8.0\monsterdata.json
